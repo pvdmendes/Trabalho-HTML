@@ -306,7 +306,7 @@ nav {
     
     font-size: 45px;
     padding: 40px 0;
-    transition: all 1s;
+    transition: all 0.5s;
 }
 
 .meus-cursos h2:hover {
